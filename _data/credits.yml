@@ -9,7 +9,7 @@ licenses:
   sil:
     name : SIL Open Font License, 1.1
     icon :
-    url  : 
+    url  :
   mit:
     name : MIT License
     icon :
@@ -44,7 +44,7 @@ licenses:
     url  :
 #
 # 'lic' values correspond to the keys in the license hash above
-# 
+#
 creds:
   - for : Design and theme
     by  : '@ajlkn'
@@ -99,7 +99,7 @@ other-image-credit: All other images are public domain.
 #
 # Chances are you replaced at least the banner below and will want
 # to change the attribution.
-# 
+#
 # 'lic' values correspond to the keys in the license hash above
 #
 image-credit:
@@ -111,8 +111,7 @@ image-credit:
     by  : froderik
     url : https://www.flickr.com/photos/froderik/9355090806/
     lic : ccbsa2
-  - src : /images/banner.jpg
-    by  : Konstaninos Dafallas
-    url : https://www.flickr.com/photos/72906133@N00/4011647045/
-    lic : ccb2
-
+  - src : /images/midwest_fall_on_a_pond.jpg
+    by  : Toby Chin
+    # url : https://www.flickr.com/photos/72906133@N00/4011647045/
+    # lic : ccb2
